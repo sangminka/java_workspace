@@ -10,9 +10,8 @@ public class CastingExample2 {
 		// 클래스 타입으로 변환하는것을 말합니다. 다운캐스팅은
 		// 수동적으로 형변환 연산자를 사용하여 이루어 집니다.
 		// 업캐스팅된 객체를 하위 클래스에 메서드나 속성을 사용하기위해 
-		// 필요합니다.
-		Bird bird = (Bird)animal;
-		bird.fly();
+		// 필요합니다
+//		bird.fly();
 		
 		//배열을 활용
 		Animal[] animals = new Animal[3];
