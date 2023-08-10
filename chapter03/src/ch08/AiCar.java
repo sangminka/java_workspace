@@ -1,4 +1,4 @@
-package ex08;
+package ch08;
 
 public class AiCar extends  Car {
 
@@ -13,5 +13,6 @@ public class AiCar extends  Car {
 		System.out.println("AI가 스스로 차를 멈춥니다.");
 		
 	}
+//run() 메서드는 final 키워드를 사용했기 때문에 재정의 불가능!
 
 }

@@ -1,4 +1,4 @@
-package ex08;
+package ch08;
 
 public class CarMainTest {
 
@@ -6,6 +6,10 @@ public class CarMainTest {
 		Car aiCar = new AiCar();
 		aiCar.run();
 
+		System.out.println("----------------");
+		
+		Car MaualCar = new MaualCal();
+	
 	}//end of main
 
 }//end of class

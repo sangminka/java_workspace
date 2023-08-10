@@ -1,4 +1,4 @@
-package ex08;
+package ch08;
 
 public class ManualCar extends Car {
 
